@@ -1,0 +1,95 @@
+[
+    {
+        "preferencia":"Casa",
+        "tipo":"Venta",
+        "zona":"Merlo",
+        "ambientes":"2",
+        "valor": 120000,
+        "imagen":"Propiedad9.jpg",
+        "descripcion":"Excelente casa en venta, ubicada en exclusiva zona, planes a pagar en dolares."
+    },
+    {
+        "preferencia":"Depto",
+        "tipo":"Venta",
+        "zona":"San antonio de Padua",
+        "ambientes":"2",
+        "valor": 250000,
+        "imagen":"Propiedad8.jpg",
+        "descripcion":"Hermosa propiedad en venta. La misma se encuentra, ubicada en barrio cerrado"
+    },
+    {
+        "preferencia":"Casa",
+        "tipo":"Venta",
+        "zona":"Merlo",
+        "ambientes":"3",
+        "valor": 180000,
+        "imagen":"Propiedad3.jpg",
+        "descripcion":"Propiedad a la venta. A estrenar y con detalles de categoría, se aceptan permutas."
+    },
+    {
+        "preferencia":"Depto",
+        "tipo":"Venta",
+        "zona":"San antonio de Padua",
+        "ambientes":"3",
+        "valor": 300000,
+        "imagen":"Propiedad10.jpg",
+        "descripcion":"Casa en venta. Ubicada en el centro comercial de la zona, con un diseño de primera calidad."
+    },
+    {
+        "preferencia":"Casa",
+        "tipo":"Venta",
+        "zona":"Merlo",
+        "ambientes":"4",
+        "valor": 410000,
+        "imagen":"Propiedad 2.jpg",
+        "descripcion":"Propiedad en venta en barrio cerrado. Cuenta con extenso patio, y gran variedad de ambientes."
+    },
+    {
+        "preferencia":"Depto",
+        "tipo":"Alquiler",
+        "zona":"San antonio de Padua",
+        "ambientes":"2",
+        "valor": 72000,
+        "imagen":"Propiedad6.jpg",
+        "descripcion":"Propiedad de lujo en alquiler, lista para tomar posesión con todo amoblado."
+    },
+    {
+        "preferencia":"Casa",
+        "tipo":"Alquiler",
+        "zona":"Merlo",
+        "ambientes":"2",
+        "valor": 95000,
+        "imagen":"Propiedad4.jpg",
+        "descripcion":"Se alquila con opción a compra. Lista para habitar, la propiedad se encuentra amoblada, y en perfecto estado de conservación."
+    },
+    {
+        "preferencia":"Depto",
+        "tipo":"Alquiler",
+        "zona":"San antonio de Padua",
+        "ambientes":"3",
+        "valor": 82000,
+        "imagen":"Propiedad12.jpg",
+        "descripcion":"Propiedad en alquiler, con ambientes amplios perfectamente distribuidos para mayor comodidad."
+    },
+    {
+        "preferencia":"Depto",
+        "tipo":"Alquiler",
+        "zona":"Merlo",
+        "ambientes":"3",
+        "valor": 97000,
+        "imagen":"Propiedad11.jpg",
+        "descripcion":"Propiedad de gran calidad, ubicada en uno de los sectores mas exclusivos de la zona."
+    },
+    {
+        "preferencia":"Casa",
+        "tipo":"Alquiler",
+        "zona":"San antonio de Padua",
+        "ambientes":"4",
+        "valor": 180000,
+        "imagen":"Propiedad 7.jpg",
+        "descripcion":"Alquiler de propiedad en zona residencial de primera,con amenities como: pileta, gimnasio, y seguridad 24 horas"
+    }
+]
+
+
+
